@@ -27,6 +27,4 @@ npm run dev
 
 ## 🌐 Deployment
 
-Live Demo
- ← (add the link after deploying)
-
+Live Demo 👉 [React Essentials](https://react-essentials-ecru.vercel.app/)
